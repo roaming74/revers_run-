@@ -1,0 +1,12 @@
+ReversRun — команды сборки
+==========================
+
+Аргументы для Auto PY to EXE:
+--uac-admin --version-file E:\\revers_run\\resources\\version_info.txt --icon "E:\\revers_run\\resources\\icon.ico"
+
+Полная команда для pyinstaller (CMD):
+pyinstaller --noconfirm --onefile --windowed --uac-admin --version-file E:\\revers_run\\resources\\version_info.txt --icon "E:\\revers_run\\resources\\icon.ico" Revers_run.py
+
+Примечание:
+- Auto PY to EXE сам подставляет путь к Revers_run.py
+- Для ручной сборки Revers_run.py указывается в конце
