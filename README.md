@@ -72,5 +72,5 @@
 
 ## 📬 Связь
 
-- **GitHub (исходный код):** https://github.com/roaming74/revers_run
+- **GitHub (исходный код):** https://github.com/roaming74/revers_run-
 - **itch.io (скачать):** https://vladickusiks.itch.io/revers-run
